@@ -1,0 +1,40 @@
+{
+    "armarios": [
+        {
+            "estado": "ocupado"
+        },
+        {
+            "estado": "desocupado"
+        },
+        {
+            "estado": "manutencao"
+        },
+        {
+            "estado": "ocupado"
+        },
+        {
+            "estado": "manutencao"
+        },
+        {
+            "estado": "ocupado"
+        },
+        {
+            "estado": "manutencao"
+        },
+        {
+            "estado": "ocupado"
+        },
+        {
+            "estado": "manutencao"
+        },
+        {
+            "estado": "ocupado"
+        },
+        {
+            "estado": "manutencao"
+        },
+        {
+            "estado": "ocupado"
+        }
+    ]
+}
